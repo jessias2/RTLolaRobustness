@@ -1,0 +1,4 @@
+input i: Int64
+output a: Int64 := a.offset(by: -1).defaults(to: 5) + 20
+output b: Int64 := a + i.offset(by: -1).defaults(to: 0)
+trigger b > 10 "Violation"

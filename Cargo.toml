@@ -1,0 +1,16 @@
+[package]
+name = "rtlola-robustness"
+version = "1.0.0"
+authors = ["Jessica Schmidt <schmidt-jessica@stud.uni-saarland.de>"]
+edition = "2018"
+readme = "README.md"
+description = "A robustness analysis for RTLola specifications."
+repository = "https://github.com/jessias2/RTLolaRobustness"
+
+[dependencies]
+# argument parser
+clap = "3.0.0-beta.2"
+# RTLola dependencies
+rtlola-frontend = "0.3.3"
+# z3 as SMT solver
+z3 = "0.9.0"

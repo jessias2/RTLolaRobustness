@@ -1,0 +1,201 @@
+input i: Int64
+output a0: Int64 := i + i
+trigger a0 > 0
+output a1: Int64 := i + i
+trigger a1 > 1
+output a2: Int64 := i + i
+trigger a2 > 2
+output a3: Int64 := i + i
+trigger a3 > 3
+output a4: Int64 := i + i
+trigger a4 > 4
+output a5: Int64 := i + i
+trigger a5 > 5
+output a6: Int64 := i + i
+trigger a6 > 6
+output a7: Int64 := i + i
+trigger a7 > 7
+output a8: Int64 := i + i
+trigger a8 > 8
+output a9: Int64 := i + i
+trigger a9 > 9
+output a10: Int64 := i + i
+trigger a10 > 10
+output a11: Int64 := i + i
+trigger a11 > 11
+output a12: Int64 := i + i
+trigger a12 > 12
+output a13: Int64 := i + i
+trigger a13 > 13
+output a14: Int64 := i + i
+trigger a14 > 14
+output a15: Int64 := i + i
+trigger a15 > 15
+output a16: Int64 := i + i
+trigger a16 > 16
+output a17: Int64 := i + i
+trigger a17 > 17
+output a18: Int64 := i + i
+trigger a18 > 18
+output a19: Int64 := i + i
+trigger a19 > 19
+output a20: Int64 := i + i
+trigger a20 > 20
+output a21: Int64 := i + i
+trigger a21 > 21
+output a22: Int64 := i + i
+trigger a22 > 22
+output a23: Int64 := i + i
+trigger a23 > 23
+output a24: Int64 := i + i
+trigger a24 > 24
+output a25: Int64 := i + i
+trigger a25 > 25
+output a26: Int64 := i + i
+trigger a26 > 26
+output a27: Int64 := i + i
+trigger a27 > 27
+output a28: Int64 := i + i
+trigger a28 > 28
+output a29: Int64 := i + i
+trigger a29 > 29
+output a30: Int64 := i + i
+trigger a30 > 30
+output a31: Int64 := i + i
+trigger a31 > 31
+output a32: Int64 := i + i
+trigger a32 > 32
+output a33: Int64 := i + i
+trigger a33 > 33
+output a34: Int64 := i + i
+trigger a34 > 34
+output a35: Int64 := i + i
+trigger a35 > 35
+output a36: Int64 := i + i
+trigger a36 > 36
+output a37: Int64 := i + i
+trigger a37 > 37
+output a38: Int64 := i + i
+trigger a38 > 38
+output a39: Int64 := i + i
+trigger a39 > 39
+output a40: Int64 := i + i
+trigger a40 > 40
+output a41: Int64 := i + i
+trigger a41 > 41
+output a42: Int64 := i + i
+trigger a42 > 42
+output a43: Int64 := i + i
+trigger a43 > 43
+output a44: Int64 := i + i
+trigger a44 > 44
+output a45: Int64 := i + i
+trigger a45 > 45
+output a46: Int64 := i + i
+trigger a46 > 46
+output a47: Int64 := i + i
+trigger a47 > 47
+output a48: Int64 := i + i
+trigger a48 > 48
+output a49: Int64 := i + i
+trigger a49 > 49
+output a50: Int64 := i + i
+trigger a50 > 50
+output a51: Int64 := i + i
+trigger a51 > 51
+output a52: Int64 := i + i
+trigger a52 > 52
+output a53: Int64 := i + i
+trigger a53 > 53
+output a54: Int64 := i + i
+trigger a54 > 54
+output a55: Int64 := i + i
+trigger a55 > 55
+output a56: Int64 := i + i
+trigger a56 > 56
+output a57: Int64 := i + i
+trigger a57 > 57
+output a58: Int64 := i + i
+trigger a58 > 58
+output a59: Int64 := i + i
+trigger a59 > 59
+output a60: Int64 := i + i
+trigger a60 > 60
+output a61: Int64 := i + i
+trigger a61 > 61
+output a62: Int64 := i + i
+trigger a62 > 62
+output a63: Int64 := i + i
+trigger a63 > 63
+output a64: Int64 := i + i
+trigger a64 > 64
+output a65: Int64 := i + i
+trigger a65 > 65
+output a66: Int64 := i + i
+trigger a66 > 66
+output a67: Int64 := i + i
+trigger a67 > 67
+output a68: Int64 := i + i
+trigger a68 > 68
+output a69: Int64 := i + i
+trigger a69 > 69
+output a70: Int64 := i + i
+trigger a70 > 70
+output a71: Int64 := i + i
+trigger a71 > 71
+output a72: Int64 := i + i
+trigger a72 > 72
+output a73: Int64 := i + i
+trigger a73 > 73
+output a74: Int64 := i + i
+trigger a74 > 74
+output a75: Int64 := i + i
+trigger a75 > 75
+output a76: Int64 := i + i
+trigger a76 > 76
+output a77: Int64 := i + i
+trigger a77 > 77
+output a78: Int64 := i + i
+trigger a78 > 78
+output a79: Int64 := i + i
+trigger a79 > 79
+output a80: Int64 := i + i
+trigger a80 > 80
+output a81: Int64 := i + i
+trigger a81 > 81
+output a82: Int64 := i + i
+trigger a82 > 82
+output a83: Int64 := i + i
+trigger a83 > 83
+output a84: Int64 := i + i
+trigger a84 > 84
+output a85: Int64 := i + i
+trigger a85 > 85
+output a86: Int64 := i + i
+trigger a86 > 86
+output a87: Int64 := i + i
+trigger a87 > 87
+output a88: Int64 := i + i
+trigger a88 > 88
+output a89: Int64 := i + i
+trigger a89 > 89
+output a90: Int64 := i + i
+trigger a90 > 90
+output a91: Int64 := i + i
+trigger a91 > 91
+output a92: Int64 := i + i
+trigger a92 > 92
+output a93: Int64 := i + i
+trigger a93 > 93
+output a94: Int64 := i + i
+trigger a94 > 94
+output a95: Int64 := i + i
+trigger a95 > 95
+output a96: Int64 := i + i
+trigger a96 > 96
+output a97: Int64 := i + i
+trigger a97 > 97
+output a98: Int64 := i + i
+trigger a98 > 98
+output a99: Int64 := i + i
+trigger a99 > 99

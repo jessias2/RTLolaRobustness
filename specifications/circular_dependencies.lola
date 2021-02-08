@@ -1,0 +1,5 @@
+input i: Int64
+output a: Int64 := b + i
+output b: Int64 := a.offset(by: -1).defaults(to: 0) + 2
+output c: Int64 := b
+trigger c > 5

@@ -1,0 +1,20 @@
+ 
+## test folder
+/test
+/specs
+/times
+/plots
+/times_pretty
+/plots_pretty
+*.txt
+*.log
+
+### IDE ###
+*.iml
+.idea/
+
+### Cargo ###
+Cargo.lock
+
+### Rust ###
+/target

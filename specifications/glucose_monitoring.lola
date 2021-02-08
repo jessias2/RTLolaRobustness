@@ -1,0 +1,5 @@
+input glucose: Int64 // glucose values from glucose sensor
+trigger glucose > 120 "Hyperglycemia detected!"
+trigger glucose < 60  "Hypoglycemia detected!"
+output gradient: Int64 := glucose - glucose.offset(by: -1).defaults(to: glucose)
+trigger gradient > 50 || gradient < -20 "Glucose value varys a lot!"
